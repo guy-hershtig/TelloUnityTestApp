@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="Drone-Bebop-2" targetId="ba286752139342c0800484c9f7fbe459" version="11.1" toolVersion="8.3.8" bbox="-0.128103 -0.028400 -0.107961 0.128104 -0.007814 0.095029" previewImage="ba286752139342c0800484c9f7fbe459_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Drone-Bebop-2s_assembly" assemblyId="540db3cb1a5e4136a00e2422c142f371">
+<Part name="Drone-Bebop-2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00644012 -0.0158254 0.234427" rotation="AD: 0.9895690507310492 0.21969679420097954 -0.9047598667008436 200.058" image="Drone-Bebop-2_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

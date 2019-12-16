@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Drone-Bebop-2"/>
+
+</Tracking>
+
+<Assembly name="Drone-Bebop-2s_assembly" assemblyId="540db3cb1a5e4136a00e2422c142f371">
+<Part name="Drone-Bebop-2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00644012 -0.0158254 0.234427" rotation="AD: 0.9895690507310492 0.21969679420097954 -0.9047598667008436 200.058" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
